@@ -1,0 +1,18 @@
+
+/*
+ Theme Name:   Type child
+ Theme URI:    https://www.designlabthemes.com/type-wordpress-theme/
+ Description:  Typechild
+ Author:       Design Lab
+ Author URI:   Author URI: https://www.designlabthemes.com/font-family: 'Oswald', sans-serif;
+ Template:     type
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         lcustom-background,custom-colors,custom-header,custom-menu,custom-logo,featured-images,flexible-header,footer-widgets,full-width-template,one-column,post-formats,right-sidebar,sticky-post,theme-options,translation-ready,two-columns,blog,e-commerce
+ Text Domain:  type-child
+*/
+
+
+/*custom font*/ 
+h1. {font-family: 'Roboto Condensed', sans-serif;}
